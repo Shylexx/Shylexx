@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm <a  href="https://github.com/Shylexx/">Alex Dauncey </a> 👋 </h1>
 
-I'm a second year at the UK's Brighton University I love coding. I enjoy teaching myself new frameworks and languages as well as solving problems... Even if I do not complete a project, I love coming way with more knowledge under my belt. <br>
+I'm a second year at the UK's Brighton University. I enjoy teaching myself new frameworks and languages as well as solving problems... Even if I do not complete a project, I love coming way with more knowledge under my belt. <br>
 <img src="foxwag-nobg-cropped.gif" width="150" height="185" align="right">
 
 - 🔭 I’m currently working on Game Development of all kinds
