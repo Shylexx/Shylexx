@@ -21,7 +21,8 @@ I'm a second year at the UK's Brighton University. I enjoy teaching myself new f
 
 - 🔭 I’m currently working on Game Development of all kinds
 - 🌱 I’m currently learning **C++** and **Java** for game development, through Unreal 4 and <a src = "https://github.com/AlmasB/FXGL">FXGL </a> 
-- 💬 I would love to contribute to Open Source Projects once I have the applicable knowledge and join in on Game Jams
+- 💻 I would like to learn Full Stack Web App Development through Node, Flutter and other frameworks when I have the time.
+- 💬 I would love to contribute to Open Source Projects and join in on Game Jams once I have the applicable knowledge
 - 😄 Any Pronouns
 
 <br>
