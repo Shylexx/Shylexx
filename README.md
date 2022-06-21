@@ -20,10 +20,9 @@ I'm a second year at the UK's Brighton University. I enjoy teaching myself new f
 <img src="foxwag-nobg-cropped.gif" width="150" height="185" align="right">
 
 - 🔭 I’m currently working on Game Development of all kinds
-- 🌱 I’m currently learning **C++** and **Java** for game development, through Unreal 4 and <a src = "https://github.com/AlmasB/FXGL">FXGL </a> 
-- 💻 I would like to learn Full Stack Web App Development through Node, React, Firebase and other frameworks.
+- 🌱 I’m currently learning **C++** for game development and **Rust**
+- 💻 I am learning Design Patterns and Graphics Programming for **Game Engine Development**
 - 💬 I would love to contribute to Open Source Projects and join in on Game Jams once I have the applicable knowledge
-- 😄 Any Pronouns
 
 <br>
 
