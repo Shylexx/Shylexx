@@ -31,7 +31,7 @@ I'm a third year student at the UK's Brighton University. I enjoy teaching mysel
 
 &nbsp;             |  &nbsp; | &nbsp;
 :-------------------------:|:----------------------------------------------------:|:-------------:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shylexx&theme=dark)](https://github.com/Shylexx/)  |  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hs7w4szqul5yoyestomcd7y&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21hs7w4szqul5yoyestomcd7y&redirect=true) | <img src = "https://github-readme-stats.vercel.app/api?username=shylexx&show_icons=true&theme=dark" width = 500>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shylexx&count_private=true&theme=dark)](https://github.com/Shylexx/)  |  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hs7w4szqul5yoyestomcd7y&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21hs7w4szqul5yoyestomcd7y&redirect=true) | <img src = "https://github-readme-stats.vercel.app/api?username=shylexx&show_icons=true&theme=dark" width = 500>
   
 
 
