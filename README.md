@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm <a  href="https://github.com/Shylexx/">Alex Dauncey </a> 👋 </h1>
 
-I'm a third year student at the UK's Brighton University. I enjoy teaching myself new frameworks and languages as well as solving problems... Even if I do not complete a project, I love coming way with more knowledge under my belt. <br>
+I'm a Junior Games Programmer at Dovetail Games in the UK. I enjoy teaching myself new skills and learning more about the low level tech driving everything else... <br>
 <img src="foxwag-nobg-cropped.gif" width="150" height="185" align="right">
 
+- 📜 I am a graduate of BSc Computer Science For Games from the University of Brighton 
 - 🔭 I’m currently working on Game Development of all kinds
 - 🌱 I’m currently learning **C++** for game development and **Rust**
 - 💬 I would love to contribute to Open Source Projects and join in on Game Jams once I have the applicable knowledge
